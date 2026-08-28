@@ -60,13 +60,13 @@ python human_posture_detection.py
 ## 📸 Results
 
 ### Example 1
-<img src="results/posture sitting.png" width="700">
+<img src="Results/posture sitting.png" width="700">
 
 
 
 ### Example 2
 
-<img src="results/posture 2.png" width="700">
+<img src="Results/posture 2.png" width="700">
 
 ---
 
